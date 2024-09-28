@@ -3,6 +3,8 @@
 ## Project Description
 This project involves performing exploratory data analysis (EDA) on a CSV dataset provided by the university. The analysis aims to identify patterns and insights related to loan defaulters, helping to understand the characteristics of individuals who may be at risk of defaulting on loans.
 
+**Note:** Original files related to this project are not shared publicly as they are part of my academic assignments.
+
 ## Table of Contents
 - [Project Structure](#project-structure)
 - [Installation Instructions](#installation-instructions)
